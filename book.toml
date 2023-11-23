@@ -1,6 +1,11 @@
 [book]
 authors = ["Mario Wibisono"]
-language = "en"
+language = "id"
 multilingual = false
 src = "src"
 title = "KobamKode"
+
+[output.html]
+# git-repository-url= "https://github.com/kobamkode/kobamkode.github.io"
+# git-repository-icon = "fa-github"
+no-section-label = true
