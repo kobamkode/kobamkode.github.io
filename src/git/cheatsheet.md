@@ -1,3 +1,5 @@
+# Git Cheatsheet
+
 | fungsi | keterangan |
 | --- | --- |
 | `git add .` | menambahkan semua file dari working directory ke staging area |
