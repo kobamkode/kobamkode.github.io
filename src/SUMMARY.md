@@ -1,3 +1,6 @@
 # Summary
 
-- [Pendahuluan](./pendahuluan.md)
+- [Pendahuluan](pendahuluan.md)
+
+# Cheatsheets
+- [Git](cheatsheets/git.md)
