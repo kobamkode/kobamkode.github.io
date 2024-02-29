@@ -1,0 +1,10 @@
+---
+title: Register Installed Flatpak App Into Dmenu
+draft: false
+tags:
+  - linux
+---
+```bash
+sudo ln -s /var/lib/flatpak/exports/bin/md.obsidian.Obsidian /usr/bin/obsidian
+```
+`md.obsidian.Obsidian` is a flatpak application id
