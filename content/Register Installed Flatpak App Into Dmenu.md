@@ -1,5 +1,5 @@
 ---
-title: Register Installed Flatpak App Into Dmenu
+title: Register Flatpak App Into Dmenu
 draft: false
 tags:
   - linux

@@ -5,7 +5,7 @@ tags:
   - linux
   - osx
 ---
-Set the standardized VISUAL and EDITOR environment variables*:
+Set the standardized VISUAL and EDITOR environment variables into your rc file,
 
 ```
 export VISUAL=nvim
