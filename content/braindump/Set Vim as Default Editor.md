@@ -1,6 +1,7 @@
 ---
 title: Set Neovim as Default Editor
 draft: false
+date: 2024-03-01
 tags:
   - braindump
   - neovim

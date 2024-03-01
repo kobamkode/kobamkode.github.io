@@ -1,6 +1,7 @@
 ---
 title: Set Artifact Registry Credential Helper
 draft: false
+date: 2024-03-01
 tags:
   - braindump
   - gcp

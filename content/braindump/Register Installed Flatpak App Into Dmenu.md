@@ -1,6 +1,7 @@
 ---
 title: Register Flatpak App Into Dmenu
 draft: false
+date: 2024-03-01
 tags:
   - braindump
   - flatpak
