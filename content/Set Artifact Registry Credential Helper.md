@@ -2,7 +2,10 @@
 title: Set Artifact Registry Credential Helper
 draft: false
 tags:
-  - deploy
+  - braindump
+  - gcp
+  - docker
+  - deployment
 ---
 Do authentication before pushing image into Artifact Registry
 ```

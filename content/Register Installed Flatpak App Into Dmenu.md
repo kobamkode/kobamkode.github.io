@@ -2,7 +2,9 @@
 title: Register Flatpak App Into Dmenu
 draft: false
 tags:
-  - linux
+  - braindump
+  - flatpak
+  - mysetup
 ---
 ```bash
 sudo ln -s /var/lib/flatpak/exports/bin/md.obsidian.Obsidian /usr/bin/obsidian

@@ -2,10 +2,11 @@
 title: Set Neovim as Default Editor
 draft: false
 tags:
-  - linux
-  - osx
+  - braindump
+  - neovim
+  - mysetup
 ---
-Set the standardized VISUAL and EDITOR environment variables into your rc file,
+Set VISUAL and EDITOR environment variables into your rc file,
 
 ```
 export VISUAL=nvim

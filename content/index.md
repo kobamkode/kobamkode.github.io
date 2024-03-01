@@ -1,5 +1,7 @@
 ---
-title: Welcome to my digital garden 🪴
+title: Welcome to my *messy* garden 🪴
 ---
 
-Hi! 👋, feel free to explore my notes and weekend projects. cheers!
+Hi! 👋
+
+Feel free to explore my [[tags/braindump]] collection. cheers!
