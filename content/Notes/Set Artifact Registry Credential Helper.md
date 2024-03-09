@@ -1,12 +1,10 @@
 ---
 title: Set Artifact Registry Credential Helper
 draft: false
-date: 2024-03-01
+date: 2024-02-28
 tags:
-  - braindump
   - gcp
   - docker
-  - deployment
 ---
 Do authentication before pushing image into Artifact Registry
 ```

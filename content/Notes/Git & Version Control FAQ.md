@@ -3,7 +3,6 @@ title: Git & Version Control FAQ
 draft: true
 date: 2024-03-01 
 tags:
-  - braindump
   - git
 ---
 
