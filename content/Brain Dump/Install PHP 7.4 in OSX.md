@@ -10,7 +10,7 @@ brew tap shivammathur/php
 brew install php@7.4
 brew unlink php@8.3
 ```
-add this into .zshrc file:
+add this into .rc file:
 ```sh
 export PATH="/usr/local/opt/php@7.4/bin:$PATH"
 export PATH="/usr/local/opt/php@7.4/sbin:$PATH"
@@ -18,4 +18,5 @@ export PATH="/usr/local/opt/php@7.4/sbin:$PATH"
 don't forget to `source ~/.zshrc`.
 
 If you want to rollback into latest installed version of PHP,
-you could changing the version of php that you wish to rollback.
+you could `unlink` and `link` the version of php that you wish to rollback 
+and don't forget to change the version of the exported PATH in .rc file. 
