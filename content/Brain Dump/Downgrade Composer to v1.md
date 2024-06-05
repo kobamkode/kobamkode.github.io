@@ -7,7 +7,7 @@ tags:
 ```sh
 composer self-update --1
 ```
-to rollback to version 2,
+to rollback into version 2,
 ```sh
 composer self-update --2
 ```

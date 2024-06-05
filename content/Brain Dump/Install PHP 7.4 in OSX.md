@@ -20,3 +20,5 @@ don't forget to `source ~/.zshrc`.
 If you want to rollback into latest installed version of PHP,
 you could `unlink` and `link` the version of php that you wish to rollback 
 and don't forget to change the version of the exported PATH in .rc file. 
+
+If you need to switch between version of composer, maybe [[Brain Dump/Downgrade Composer to v1]] could help.
