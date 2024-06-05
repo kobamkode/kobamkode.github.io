@@ -1,5 +1,5 @@
 ---
 title: Brain Dump
-description: My development notes
+description: Jot and forget, find it when need it.
 date: 2024-06-03
 ---
