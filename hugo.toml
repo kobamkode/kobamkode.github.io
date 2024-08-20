@@ -1,0 +1,15 @@
+baseURL = 'https://kobamkode.github.io/'
+languageCode = 'en-us'
+title = 'The Plaintext Quest'
+theme = 'paper'
+
+[params]
+	color = "linen"
+
+	github = "kobamkode"
+
+	avatar = "kobamkode@gmail.com"
+	name = "KobamKode"
+	bio = "test"
+
+	
