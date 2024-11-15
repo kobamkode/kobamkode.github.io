@@ -8,4 +8,4 @@ showTags = true
 hideBackToTop = true
 +++
 
-Today I learned to resolve an error like "...already exists in the index" when adding a submodule. To resolve, unstage the submodule first using the `git rm -r your_submodule_dir` command and then re-add it.
+Today I learned to resolve an error like "...already exists in the index" when adding a submodule. To resolve that error, first unstage the submodule using the `git rm -r your_submodule_dir` command and then re-add the submodule.

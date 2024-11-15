@@ -21,7 +21,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi! 👋'
 homeIntroContent = """
-I’m Mario, a software developer 👨‍💻. I love to learn about programming languages and development ecosystem. I understand that there is a lot of knowledge out there to absorb, but I feel like my brain can no longer hold that much information. To help me remember what I have learned each day, I am writing down my brief notes below. ✍️
+I’m Mario, a software developer 👨‍💻. I love to learn programming languages and development ecosystem. I understand that there is a lot of knowledge out there to absorb, but I feel like my brain no longer can hold that much information. To help me remember what I have learned each day, I am writing down my brief notes here. ✍️
 """
 
 # Collection to display on home
