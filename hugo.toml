@@ -1,6 +1,6 @@
 baseURL = 'https://kobamkode.github.io/'
 languageCode = 'en-us'
-title = 'My Plaintext Quest'
+title = 'A Plaintext Quest'
 theme = 'typo'
 
 [taxonomies]
@@ -11,7 +11,7 @@ googleAnalytics = "G-xxxxxxxxx"
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = ""
 
 # Appearance settings
 theme = 'auto'
@@ -19,17 +19,18 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
-# homeIntroContent = """
-# """
+homeIntroTitle = 'Hi! 👋'
+homeIntroContent = """
+I’m Mario, a software developer 👨‍💻. I love to learn about programming languages and development ecosystem. I understand that there is a lot of knowledge out there to absorb, but I feel like my brain can no longer hold that much information. To help me remember what I have learned each day, I am writing down my brief notes below. ✍️
+"""
 
 # Collection to display on home
-homeCollectionTitle = 'Posts'
-homeCollection = 'posts'
+homeCollectionTitle = 'Today I Learned'
+homeCollection = 'til'
 
 # Lists parameters
 paginationSize = 100
-listSummaries = true
+# listSummaries = true
 listDateFormat = '2 Jan 2006'
 
 # Breadcrumbs
@@ -53,13 +54,13 @@ url = "https://github.com/kobamkode"
 name = "home"
 url = "/"
 
-[[params.menu]]
-name = "posts"
-url = "/posts"
+# [[params.menu]]
+# name = "today i learned"
+# url = "/til"
 
-[[params.menu]]
-name = "about"
-url = "/about"
+# [[params.menu]]
+# name = "about"
+# url = "/about"
 
 # Syntax highligth on code blocks
 [markup]
